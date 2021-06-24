@@ -1,7 +1,952 @@
 fileFormatVersion: 2
 guid: 516f7aca699ddec4fbae818ac6c4e155
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5481123807863419936
+    second: gear4_0
+  - first:
+      213: -3132475692326845894
+    second: gear4_1
+  - first:
+      213: 6087477944944649900
+    second: gear4_2
+  - first:
+      213: -307702460457952855
+    second: gear4_3
+  - first:
+      213: 8661577569641761983
+    second: gear4_4
+  - first:
+      213: 892037234149027908
+    second: gear4_5
+  - first:
+      213: -35509773765913464
+    second: gear4_6
+  - first:
+      213: 5675442195487935478
+    second: gear4_7
+  - first:
+      213: 6654480321600889276
+    second: gear4_8
+  - first:
+      213: -842712912121230763
+    second: gear4_9
+  - first:
+      213: -8877724090265163705
+    second: gear4_10
+  - first:
+      213: -6687283992098292700
+    second: gear4_11
+  - first:
+      213: -8139108317811597075
+    second: gear4_12
+  - first:
+      213: 5901814647063074265
+    second: gear4_13
+  - first:
+      213: 1781555188273899700
+    second: gear4_14
+  - first:
+      213: -5940923002690453005
+    second: gear4_15
+  - first:
+      213: 5046126573235433088
+    second: gear4_16
+  - first:
+      213: -7972563042356091950
+    second: gear4_17
+  - first:
+      213: 2677309380454983699
+    second: gear4_18
+  - first:
+      213: -7481856881732220843
+    second: gear4_19
+  - first:
+      213: -2693235710588808835
+    second: gear4_20
+  - first:
+      213: 6429114624328758146
+    second: gear4_21
+  - first:
+      213: -5036103940294200128
+    second: gear4_22
+  - first:
+      213: -8081801032958884685
+    second: gear4_23
+  - first:
+      213: 3827726184107315955
+    second: gear4_24
+  - first:
+      213: 3215903240075830834
+    second: gear4_25
+  - first:
+      213: 1929231935689663839
+    second: gear4_26
+  - first:
+      213: -6690701880443145297
+    second: gear4_27
+  - first:
+      213: 24533990582604038
+    second: gear4_28
+  - first:
+      213: 3615686902842131277
+    second: gear4_29
+  - first:
+      213: 1222163930820986293
+    second: gear4_30
+  - first:
+      213: -6376569442035463332
+    second: gear4_31
+  - first:
+      213: 5685132440341996898
+    second: gear4_32
+  - first:
+      213: -5685813693301117951
+    second: gear4_33
+  - first:
+      213: 8002415892825422051
+    second: gear4_34
+  - first:
+      213: 583013042062555355
+    second: gear4_35
+  - first:
+      213: -3246287065990662199
+    second: gear4_36
+  - first:
+      213: 5985828064028831122
+    second: gear4_37
+  - first:
+      213: 2090913003342242044
+    second: gear4_38
+  - first:
+      213: 5067401602718443090
+    second: gear4_39
+  - first:
+      213: 6561804171021630583
+    second: gear4_40
+  - first:
+      213: 6567826278249957773
+    second: gear4_41
+  - first:
+      213: 8782924666630151083
+    second: gear4_42
+  - first:
+      213: -774696055829837954
+    second: gear4_43
+  - first:
+      213: -8355929938616572687
+    second: gear4_44
+  - first:
+      213: -8341966336196421840
+    second: gear4_45
+  - first:
+      213: -2296538497897547393
+    second: gear4_46
+  - first:
+      213: 3726665600141727705
+    second: gear4_47
+  - first:
+      213: 7239146145690749049
+    second: gear4_48
+  - first:
+      213: -3464334354205710565
+    second: gear4_49
+  - first:
+      213: -3341269022535736306
+    second: gear4_50
+  - first:
+      213: -5251557718436156885
+    second: gear4_51
+  - first:
+      213: 3463241212295436315
+    second: gear4_52
+  - first:
+      213: -8484567836428554659
+    second: gear4_53
+  - first:
+      213: 2155037597879878700
+    second: gear4_54
+  - first:
+      213: -9008554693430574360
+    second: gear4_55
+  - first:
+      213: -5546607242441989404
+    second: gear4_56
+  - first:
+      213: -4604178143466489199
+    second: gear4_57
+  - first:
+      213: -7693079319392786980
+    second: gear4_58
+  - first:
+      213: 8079863737627232073
+    second: gear4_59
+  - first:
+      213: 1028991959600602387
+    second: gear4_60
+  - first:
+      213: 5347405757151437397
+    second: gear4_61
+  - first:
+      213: 7855288719345757438
+    second: gear4_62
+  - first:
+      213: 4285217192499874802
+    second: gear4_63
+  - first:
+      213: 8650360616636830618
+    second: gear4_64
+  - first:
+      213: -8065825256237930912
+    second: gear4_65
+  - first:
+      213: -5318079867704425549
+    second: gear4_66
+  - first:
+      213: -3643248575508763748
+    second: gear4_67
+  - first:
+      213: 6531386155499181815
+    second: gear4_68
+  - first:
+      213: -268880120519502028
+    second: gear4_69
+  - first:
+      213: -1793483879811451075
+    second: gear4_70
+  - first:
+      213: 4600736904003430210
+    second: gear4_71
+  - first:
+      213: -1242569555681757553
+    second: gear4_72
+  - first:
+      213: -4964662370293484918
+    second: gear4_73
+  - first:
+      213: 2008037961462196013
+    second: gear4_74
+  - first:
+      213: 254638511332359284
+    second: gear4_75
+  - first:
+      213: 6287768479757980954
+    second: gear4_76
+  - first:
+      213: -2797234927852604891
+    second: gear4_77
+  - first:
+      213: -727376465833601797
+    second: gear4_78
+  - first:
+      213: -5106342192173048918
+    second: gear4_79
+  - first:
+      213: -7859595213053944373
+    second: gear4_80
+  - first:
+      213: -7143187984791242124
+    second: gear4_81
+  - first:
+      213: 3589318350386426386
+    second: gear4_82
+  - first:
+      213: 3755846773862972586
+    second: gear4_83
+  - first:
+      213: 4512199699725480953
+    second: gear4_84
+  - first:
+      213: 2021106296657595204
+    second: gear4_85
+  - first:
+      213: 1046189066058841021
+    second: gear4_86
+  - first:
+      213: -2121332179205119102
+    second: gear4_87
+  - first:
+      213: 638722697056088921
+    second: gear4_88
+  - first:
+      213: 5348869838416958246
+    second: gear4_89
+  - first:
+      213: -5266093675415466316
+    second: gear4_90
+  - first:
+      213: -4379326728802884505
+    second: gear4_91
+  - first:
+      213: 6258594895887737226
+    second: gear4_92
+  - first:
+      213: -8367873871525398137
+    second: gear4_93
+  - first:
+      213: 4116155048663723392
+    second: gear4_94
+  - first:
+      213: 9114679284545196299
+    second: gear4_95
+  - first:
+      213: -5460687022923569341
+    second: gear4_96
+  - first:
+      213: 600407570478474640
+    second: gear4_97
+  - first:
+      213: 3839215395093343534
+    second: gear4_98
+  - first:
+      213: -8718342265819490605
+    second: gear4_99
+  - first:
+      213: -5384519922525386039
+    second: gear4_100
+  - first:
+      213: -6129117965969604040
+    second: gear4_101
+  - first:
+      213: -5084189191117391508
+    second: gear4_102
+  - first:
+      213: 1012602641621801256
+    second: gear4_103
+  - first:
+      213: -7369848860886277515
+    second: gear4_104
+  - first:
+      213: -7417163890633718949
+    second: gear4_105
+  - first:
+      213: -4136292077706959104
+    second: gear4_106
+  - first:
+      213: 8752235111491495781
+    second: gear4_107
+  - first:
+      213: 6948321547776083952
+    second: gear4_108
+  - first:
+      213: -2557516249431453955
+    second: gear4_109
+  - first:
+      213: -5382791657239938852
+    second: gear4_110
+  - first:
+      213: -661326768047727395
+    second: gear4_111
+  - first:
+      213: 2573572891075873461
+    second: gear4_112
+  - first:
+      213: 4038265482171987168
+    second: gear4_113
+  - first:
+      213: -1199955575064136208
+    second: gear4_114
+  - first:
+      213: -5595461790680088226
+    second: gear4_115
+  - first:
+      213: 3697773788603113033
+    second: gear4_116
+  - first:
+      213: -5169825492751740792
+    second: gear4_117
+  - first:
+      213: 4338994176748527254
+    second: gear4_118
+  - first:
+      213: 1007172699265904503
+    second: gear4_119
+  - first:
+      213: -2778064473370783542
+    second: gear4_120
+  - first:
+      213: -1616138021076057106
+    second: gear4_121
+  - first:
+      213: 7251135133513405110
+    second: gear4_122
+  - first:
+      213: -5271907047173685460
+    second: gear4_123
+  - first:
+      213: -9074644806606247344
+    second: gear4_124
+  - first:
+      213: 4943721457875601093
+    second: gear4_125
+  - first:
+      213: -4594345439748937266
+    second: gear4_126
+  - first:
+      213: -1906494815647032009
+    second: gear4_127
+  - first:
+      213: 1778181968812014127
+    second: gear4_128
+  - first:
+      213: -8186380935928146496
+    second: gear4_129
+  - first:
+      213: 5921972731014595717
+    second: gear4_130
+  - first:
+      213: -2187742154262393018
+    second: gear4_131
+  - first:
+      213: -3019970915714538459
+    second: gear4_132
+  - first:
+      213: 2159981610963976491
+    second: gear4_133
+  - first:
+      213: -4604711947516811874
+    second: gear4_134
+  - first:
+      213: 8605712344519166688
+    second: gear4_135
+  - first:
+      213: -4316204081154330169
+    second: gear4_136
+  - first:
+      213: 4293112459623803855
+    second: gear4_137
+  - first:
+      213: -684424094348296423
+    second: gear4_138
+  - first:
+      213: 4650378004795062723
+    second: gear4_139
+  - first:
+      213: 4043440996868863337
+    second: gear4_140
+  - first:
+      213: 5896964764677024816
+    second: gear4_141
+  - first:
+      213: -7722027184186104263
+    second: gear4_142
+  - first:
+      213: -3573030049611440898
+    second: gear4_143
+  - first:
+      213: 1796049066480118078
+    second: gear4_144
+  - first:
+      213: -6166344301187231081
+    second: gear4_145
+  - first:
+      213: -5874798279092532290
+    second: gear4_146
+  - first:
+      213: 5331718372936449004
+    second: gear4_147
+  - first:
+      213: -3972981568770871497
+    second: gear4_148
+  - first:
+      213: -8902200915555764451
+    second: gear4_149
+  - first:
+      213: -555520744776355379
+    second: gear4_150
+  - first:
+      213: -905280253133752620
+    second: gear4_151
+  - first:
+      213: -7136144092040145280
+    second: gear4_152
+  - first:
+      213: 427162675191325270
+    second: gear4_153
+  - first:
+      213: 7139784508031743403
+    second: gear4_154
+  - first:
+      213: -5389871209586207429
+    second: gear4_155
+  - first:
+      213: -4624134667615559380
+    second: gear4_156
+  - first:
+      213: 645928142291830048
+    second: gear4_157
+  - first:
+      213: 5504692759993850199
+    second: gear4_158
+  - first:
+      213: -927837183990344512
+    second: gear4_159
+  - first:
+      213: -1706135549116040909
+    second: gear4_160
+  - first:
+      213: 6993985995848189838
+    second: gear4_161
+  - first:
+      213: -7140676098457722418
+    second: gear4_162
+  - first:
+      213: 2176700049493549686
+    second: gear4_163
+  - first:
+      213: -2076356723916702918
+    second: gear4_164
+  - first:
+      213: -8739503443376514085
+    second: gear4_165
+  - first:
+      213: 6946203385814811707
+    second: gear4_166
+  - first:
+      213: 7657359018931564024
+    second: gear4_167
+  - first:
+      213: -2626943465480624934
+    second: gear4_168
+  - first:
+      213: 6190598410193467981
+    second: gear4_169
+  - first:
+      213: 1064219642488117938
+    second: gear4_170
+  - first:
+      213: -3148718561776904783
+    second: gear4_171
+  - first:
+      213: 2203721609823303801
+    second: gear4_172
+  - first:
+      213: -113107821579198729
+    second: gear4_173
+  - first:
+      213: -4694537962234260639
+    second: gear4_174
+  - first:
+      213: -7091264416217890474
+    second: gear4_175
+  - first:
+      213: -8469579513372798947
+    second: gear4_176
+  - first:
+      213: -4748253592800829062
+    second: gear4_177
+  - first:
+      213: 3591600355796398380
+    second: gear4_178
+  - first:
+      213: -415492156563179957
+    second: gear4_179
+  - first:
+      213: 5626929897474286613
+    second: gear4_180
+  - first:
+      213: 2846320272991083015
+    second: gear4_181
+  - first:
+      213: 3466585140703612228
+    second: gear4_182
+  - first:
+      213: 1039870350592919268
+    second: gear4_183
+  - first:
+      213: -2677913247993199769
+    second: gear4_184
+  - first:
+      213: 1525097765139416066
+    second: gear4_185
+  - first:
+      213: -3954292595926852213
+    second: gear4_186
+  - first:
+      213: 7399381997435123256
+    second: gear4_187
+  - first:
+      213: -3434896251034231063
+    second: gear4_188
+  - first:
+      213: -4880097001064386826
+    second: gear4_189
+  - first:
+      213: 6028581098826782443
+    second: gear4_190
+  - first:
+      213: -4794662705214585323
+    second: gear4_191
+  - first:
+      213: 1767939561374697592
+    second: gear4_192
+  - first:
+      213: 2029384096345603473
+    second: gear4_193
+  - first:
+      213: 810356631926750829
+    second: gear4_194
+  - first:
+      213: -4530281881557130497
+    second: gear4_195
+  - first:
+      213: 3795426425626673297
+    second: gear4_196
+  - first:
+      213: -3629844693067024062
+    second: gear4_197
+  - first:
+      213: -7576127946877808807
+    second: gear4_198
+  - first:
+      213: -7229413415925649171
+    second: gear4_199
+  - first:
+      213: -7313265972487200548
+    second: gear4_200
+  - first:
+      213: -7329564825153953905
+    second: gear4_201
+  - first:
+      213: 2994495647587064062
+    second: gear4_202
+  - first:
+      213: -6201159206893435101
+    second: gear4_203
+  - first:
+      213: 3752564784100810191
+    second: gear4_204
+  - first:
+      213: -7337489185851287082
+    second: gear4_205
+  - first:
+      213: 5105910673395137500
+    second: gear4_206
+  - first:
+      213: 1637204394024217625
+    second: gear4_207
+  - first:
+      213: -282297173120933087
+    second: gear4_208
+  - first:
+      213: -1568463964008306089
+    second: gear4_209
+  - first:
+      213: -898379886185527529
+    second: gear4_210
+  - first:
+      213: -7371100419694480390
+    second: gear4_211
+  - first:
+      213: -3765926267311740053
+    second: gear4_212
+  - first:
+      213: -9210229875329290420
+    second: gear4_213
+  - first:
+      213: 7207663916176178421
+    second: gear4_214
+  - first:
+      213: 932628924393164112
+    second: gear4_215
+  - first:
+      213: 3961210817661564273
+    second: gear4_216
+  - first:
+      213: 4516003705317066692
+    second: gear4_217
+  - first:
+      213: 1402809776929223167
+    second: gear4_218
+  - first:
+      213: -1114042081395905477
+    second: gear4_219
+  - first:
+      213: 750554151710294326
+    second: gear4_220
+  - first:
+      213: 8950132646851869291
+    second: gear4_221
+  - first:
+      213: -3599870468641917432
+    second: gear4_222
+  - first:
+      213: 2415868775857874706
+    second: gear4_223
+  - first:
+      213: -6292850939699719813
+    second: gear4_224
+  - first:
+      213: -1323289064473209668
+    second: gear4_225
+  - first:
+      213: 2493215851231700202
+    second: gear4_226
+  - first:
+      213: -3155470685313427138
+    second: gear4_227
+  - first:
+      213: -2084940694500936988
+    second: gear4_228
+  - first:
+      213: -88545888872084642
+    second: gear4_229
+  - first:
+      213: 1737893094591014587
+    second: gear4_230
+  - first:
+      213: -5637614894602386131
+    second: gear4_231
+  - first:
+      213: 5257727916526947519
+    second: gear4_232
+  - first:
+      213: -7606621787844126154
+    second: gear4_233
+  - first:
+      213: 9089888017059428868
+    second: gear4_234
+  - first:
+      213: -7760195461797752557
+    second: gear4_235
+  - first:
+      213: 4647638831772822193
+    second: gear4_236
+  - first:
+      213: 6562703372040323271
+    second: gear4_237
+  - first:
+      213: -3803246751706870317
+    second: gear4_238
+  - first:
+      213: 5304560456564378231
+    second: gear4_239
+  - first:
+      213: -5087064187291144701
+    second: gear4_240
+  - first:
+      213: 4360905133421249838
+    second: gear4_241
+  - first:
+      213: -3408729358190435848
+    second: gear4_242
+  - first:
+      213: -6912941643305154298
+    second: gear4_243
+  - first:
+      213: 9105599085854100221
+    second: gear4_244
+  - first:
+      213: -6847370478212011336
+    second: gear4_245
+  - first:
+      213: -1371401688164564461
+    second: gear4_246
+  - first:
+      213: 4841604764728519482
+    second: gear4_247
+  - first:
+      213: -199576637384705529
+    second: gear4_248
+  - first:
+      213: 3175179294835021273
+    second: gear4_249
+  - first:
+      213: 672606757397638007
+    second: gear4_250
+  - first:
+      213: -5981584053355240047
+    second: gear4_251
+  - first:
+      213: -1091065636144751746
+    second: gear4_252
+  - first:
+      213: -5590713651714172961
+    second: gear4_253
+  - first:
+      213: 1025003856586375043
+    second: gear4_254
+  - first:
+      213: 2993513160510464055
+    second: gear4_255
+  - first:
+      213: -711406233277640328
+    second: gear4_256
+  - first:
+      213: -6660108964794607846
+    second: gear4_257
+  - first:
+      213: 4495361752400065289
+    second: gear4_258
+  - first:
+      213: 6740484198921310121
+    second: gear4_259
+  - first:
+      213: -724508620443749133
+    second: gear4_260
+  - first:
+      213: 8019717542468811245
+    second: gear4_261
+  - first:
+      213: -8810950826311288414
+    second: gear4_262
+  - first:
+      213: 7117939343327020479
+    second: gear4_263
+  - first:
+      213: -2877577523864306661
+    second: gear4_264
+  - first:
+      213: 4668809522627739263
+    second: gear4_265
+  - first:
+      213: -4808617105112356709
+    second: gear4_266
+  - first:
+      213: 3286650344002609396
+    second: gear4_267
+  - first:
+      213: 8758970855039535231
+    second: gear4_268
+  - first:
+      213: -908944912609175196
+    second: gear4_269
+  - first:
+      213: -7573928907231913350
+    second: gear4_270
+  - first:
+      213: 4531892413931947884
+    second: gear4_271
+  - first:
+      213: 1316776037213486679
+    second: gear4_272
+  - first:
+      213: -4016278774605602837
+    second: gear4_273
+  - first:
+      213: -5143511797966981891
+    second: gear4_274
+  - first:
+      213: -4055205358151722135
+    second: gear4_275
+  - first:
+      213: -8476406327838573716
+    second: gear4_276
+  - first:
+      213: -7793863517293925482
+    second: gear4_277
+  - first:
+      213: -7687252750210788428
+    second: gear4_278
+  - first:
+      213: 7783909623949024165
+    second: gear4_279
+  - first:
+      213: 7358040569803285380
+    second: gear4_280
+  - first:
+      213: -5418913805552081358
+    second: gear4_281
+  - first:
+      213: -5453842159844068827
+    second: gear4_282
+  - first:
+      213: -8781930361929158239
+    second: gear4_283
+  - first:
+      213: 2405652066168340042
+    second: gear4_284
+  - first:
+      213: -2645241030895277339
+    second: gear4_285
+  - first:
+      213: 9063132126177396089
+    second: gear4_286
+  - first:
+      213: 1368187328158937639
+    second: gear4_287
+  - first:
+      213: -1043454078970076835
+    second: gear4_288
+  - first:
+      213: 518202747240299346
+    second: gear4_289
+  - first:
+      213: 6059810828994918328
+    second: gear4_290
+  - first:
+      213: 3201744326478415595
+    second: gear4_291
+  - first:
+      213: 4185987951572960918
+    second: gear4_292
+  - first:
+      213: 3077335105398312118
+    second: gear4_293
+  - first:
+      213: 8603930960531857057
+    second: gear4_294
+  - first:
+      213: 817884334651011800
+    second: gear4_295
+  - first:
+      213: 1900708519184230042
+    second: gear4_296
+  - first:
+      213: 8155766162455315188
+    second: gear4_297
+  - first:
+      213: 6831689769210329148
+    second: gear4_298
+  - first:
+      213: 7687625503293920647
+    second: gear4_299
+  - first:
+      213: 3891650617019548295
+    second: gear4_300
+  - first:
+      213: -3809262025573428142
+    second: gear4_301
+  - first:
+      213: -7611448396874183547
+    second: gear4_302
+  - first:
+      213: -5219278536883608535
+    second: gear4_303
+  - first:
+      213: 7525975087306532329
+    second: gear4_304
+  - first:
+      213: -4711812836485272807
+    second: gear4_305
+  - first:
+      213: 5063933290448035734
+    second: gear4_306
+  - first:
+      213: 6925244377744272531
+    second: gear4_307
+  - first:
+      213: -7945829139811459193
+    second: gear4_308
+  - first:
+      213: -8995228496210297341
+    second: gear4_309
+  - first:
+      213: -3163868750461161822
+    second: gear4_310
+  - first:
+      213: -3122025897932982118
+    second: gear4_311
+  - first:
+      213: -4482093749786154310
+    second: gear4_312
+  - first:
+      213: -1894294544874275866
+    second: gear4_313
+  - first:
+      213: 3942015517066625365
+    second: gear4_314
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +977,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,7 +986,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +1020,6636 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: gear4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb4d5edfe22fe3b0800000000000000
+      internalID: -5481123807863419936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32005354f53784d0800000000000000
+      internalID: -3132475692326845894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6637620f01b7450800000000000000
+      internalID: 6087477944944649900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9d3e31e32dabbf0800000000000000
+      internalID: -307702460457952855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc0df898ea143870800000000000000
+      internalID: 8661577569641761983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440ffd36327216c00800000000000000
+      internalID: 892037234149027908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884d0a48c08d18ff0800000000000000
+      internalID: -35509773765913464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb42556b9833ce40800000000000000
+      internalID: 5675442195487935478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb129d57896795c50800000000000000
+      internalID: 6654480321600889276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a016142151e44f0800000000000000
+      internalID: -842712912121230763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74821d1e9fcfbc480800000000000000
+      internalID: -8877724090265163705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c33d2d3aef133a0800000000000000
+      internalID: -6687283992098292700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0a9689b141c0f80800000000000000
+      internalID: -8139108317811597075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d55460072577e150800000000000000
+      internalID: 5901814647063074265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8e1d0310b59b810800000000000000
+      internalID: 1781555188273899700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f140b2610a9d8da0800000000000000
+      internalID: -5940923002690453005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e6b510261770640800000000000000
+      internalID: 5046126573235433088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d325f64724cb5190800000000000000
+      internalID: -7972563042356091950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31827df42b6b72520800000000000000
+      internalID: 2677309380454983699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5580a008eca1b2890800000000000000
+      internalID: -7481856881732220843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 546.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7115fdf364bf9ad0800000000000000
+      internalID: -2693235710588808835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283726b10bdc83950800000000000000
+      internalID: 6429114624328758146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4b1d2162a2c1ab0800000000000000
+      internalID: -5036103940294200128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4c91d97cca7df80800000000000000
+      internalID: -8081801032958884685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f29d2d2fa0de1530800000000000000
+      internalID: 3827726184107315955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2366fb055fe21ac20800000000000000
+      internalID: 3215903240075830834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f552f18593206ca10800000000000000
+      internalID: 1929231935689663839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3f52ea61ad523a0800000000000000
+      internalID: -6690701880443145297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6015991d889275000800000000000000
+      internalID: 24533990582604038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4300f6d4108d2230800000000000000
+      internalID: 3615686902842131277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b541e9ae9ff5f010800000000000000
+      internalID: 1222163930820986293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b8dd180efd187a0800000000000000
+      internalID: -6376569442035463332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_32
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26562a755d5a5ee40800000000000000
+      internalID: 5685132440341996898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c2cb7129ee711b0800000000000000
+      internalID: -5685813693301117951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_34
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8bccc1bda4e0f60800000000000000
+      internalID: 8002415892825422051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_35
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8fe87d547471800800000000000000
+      internalID: 583013042062555355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c77ea0fc1fd2f2d0800000000000000
+      internalID: -3246287065990662199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29da003f8eee11350800000000000000
+      internalID: 5985828064028831122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_38
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a5746c4a640d10800000000000000
+      internalID: 2090913003342242044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2562740d8e6035640800000000000000
+      internalID: 5067401602718443090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_40
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cbb6ba026301b50800000000000000
+      internalID: 6561804171021630583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 507.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d898095c33b952b50800000000000000
+      internalID: 6567826278249957773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab918b437733e970800000000000000
+      internalID: 8782924666630151083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_43
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77cd5faa0abf35f0800000000000000
+      internalID: -774696055829837954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f425b01ef5c90c80800000000000000
+      internalID: -8355929938616572687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037deba90d16b3c80800000000000000
+      internalID: -8341966336196421840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79becb576e0120e0800000000000000
+      internalID: -2296538497897547393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d79d1d5e96c7b330800000000000000
+      internalID: 3726665600141727705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978090b901d967460800000000000000
+      internalID: 7239146145690749049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17e26a72463cefc0800000000000000
+      internalID: -3464334354205710565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04adbcd68d61a1d0800000000000000
+      internalID: -3341269022535736306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_51
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ae62b3418be17b0800000000000000
+      internalID: -5251557718436156885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18dc569887ef0030800000000000000
+      internalID: 3463241212295436315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_53
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ea8f48182c04a80800000000000000
+      internalID: -8484567836428554659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24cd33074b38ed10800000000000000
+      internalID: 2155037597879878700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_55
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e284665c3f2bf280800000000000000
+      internalID: -9008554693430574360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_56
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2e2a5a91e7603b0800000000000000
+      internalID: -5546607242441989404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aff0c5f5caa10c0800000000000000
+      internalID: -4604178143466489199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd560b26e11bc3590800000000000000
+      internalID: -7693079319392786980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_59
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947c4daa241712070800000000000000
+      internalID: 8079863737627232073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_60
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d1ab44cb6b74e00800000000000000
+      internalID: 1028991959600602387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_61
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552e3e0543dc53a40800000000000000
+      internalID: 5347405757151437397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_62
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 468.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcacbc9877930d60800000000000000
+      internalID: 7855288719345757438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb0a502556287b30800000000000000
+      internalID: 4285217192499874802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93daa536214c0870800000000000000
+      internalID: 8650360616636830618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066609df9ae601090800000000000000
+      internalID: -8065825256237930912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_66
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3425669826236b0800000000000000
+      internalID: -5318079867704425549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b2a5c29b4907dc0800000000000000
+      internalID: -3643248575508763748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6de698a1524aa50800000000000000
+      internalID: 6531386155499181815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437554974feb44cf0800000000000000
+      internalID: -268880120519502028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_70
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37f271e9e34c17e0800000000000000
+      internalID: -1793483879811451075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247a724a6d919df30800000000000000
+      internalID: 4600736904003430210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_72
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86bfd0929181cee0800000000000000
+      internalID: -1242569555681757553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8278ecc0e9f91bb0800000000000000
+      internalID: -4964662370293484918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_74
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27247c03ebfddb10800000000000000
+      internalID: 2008037961462196013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c791e7068a88300800000000000000
+      internalID: 254638511332359284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_76
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a155fd94e14a24750800000000000000
+      internalID: 6287768479757980954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_77
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522b70c47a93e29d0800000000000000
+      internalID: -2797234927852604891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_78
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4520845f6d7e5f0800000000000000
+      internalID: -727376465833601797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_79
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab9feda4d0a229b0800000000000000
+      internalID: -5106342192173048918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_80
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd1f8fabcb1de290800000000000000
+      internalID: -7859595213053944373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_81
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47afda2cf5c4edc90800000000000000
+      internalID: -7143187984791242124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_82
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212f29cc502dfc130800000000000000
+      internalID: 3589318350386426386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_83
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 429.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac36e2ddb27f1430800000000000000
+      internalID: 3755846773862972586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3f2c168bd8e9e30800000000000000
+      internalID: 4512199699725480953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bc491f7796c0c10800000000000000
+      internalID: 2021106296657595204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_86
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbb552a96fc48e00800000000000000
+      internalID: 1046189066058841021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283afdf4f938f82e0800000000000000
+      internalID: -2121332179205119102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953f10ca8e23dd800800000000000000
+      internalID: 638722697056088921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_89
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623d4ac47c00b3a40800000000000000
+      internalID: 5348869838416958246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be0ee204b31be6b0800000000000000
+      internalID: -5266093675415466316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_91
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764a456fa818933c0800000000000000
+      internalID: -4379326728802884505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81267af5eefad650800000000000000
+      internalID: 6258594895887737226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789b47a7c075fdb80800000000000000
+      internalID: -8367873871525398137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_94
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d280c55358f1930800000000000000
+      internalID: 4116155048663723392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_95
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b019de48488dd7e70800000000000000
+      internalID: 9114679284545196299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_96
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3472e09a51eb734b0800000000000000
+      internalID: -5460687022923569341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_97
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09523d61183155800800000000000000
+      internalID: 600407570478474640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_98
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2defb09f02a74530800000000000000
+      internalID: 3839215395093343534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_99
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d61e87a6e9320780800000000000000
+      internalID: -8718342265819490605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_100
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca4cdba8a75645b0800000000000000
+      internalID: -5384519922525386039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_101
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832cae3feaff0faa0800000000000000
+      internalID: -6129117965969604040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_102
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69319c2ed45179b0800000000000000
+      internalID: -5084189191117391508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_103
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8295d70dcbc7d0e00800000000000000
+      internalID: 1012602641621801256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_104
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 390.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5726e86128909b990800000000000000
+      internalID: -7369848860886277515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b534ce14db0f01990800000000000000
+      internalID: -7417163890633718949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_106
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007a3053540f896c0800000000000000
+      internalID: -4136292077706959104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_107
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567e62b667f267970800000000000000
+      internalID: 8752235111491495781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_108
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7c26842a56d6060800000000000000
+      internalID: 6948321547776083952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe495d7580e18cd0800000000000000
+      internalID: -2557516249431453955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_110
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8f64ac18b7c45b0800000000000000
+      internalID: -5382791657239938852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcde0eeece72d6f0800000000000000
+      internalID: -661326768047727395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_112
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba0728b8ea27b320800000000000000
+      internalID: 2573572891075873461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e435957f0dca0830800000000000000
+      internalID: 4038265482171987168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_114
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f57d0a13c6e85fe0800000000000000
+      internalID: -1199955575064136208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_115
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e510e3cb52de852b0800000000000000
+      internalID: -5595461790680088226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_116
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e50794ba1215330800000000000000
+      internalID: 3697773788603113033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_117
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88016c1fa171148b0800000000000000
+      internalID: -5169825492751740792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_118
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e959bf634373c30800000000000000
+      internalID: 4338994176748527254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_119
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f2737db323afd00800000000000000
+      internalID: 1007172699265904503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_120
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac01a9d84155279d0800000000000000
+      internalID: -2778064473370783542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_121
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee342c158035299e0800000000000000
+      internalID: -1616138021076057106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_122
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2db6b5cf431a460800000000000000
+      internalID: 7251135133513405110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_123
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f755ce87c66d6b0800000000000000
+      internalID: -5271907047173685460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_124
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a246fb0a2601280800000000000000
+      internalID: -9074644806606247344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_125
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 351.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6c6251970ab9440800000000000000
+      internalID: 4943721457875601093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec924581a2b9d30c0800000000000000
+      internalID: -4594345439748937266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_127
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d1c33f015ca85e0800000000000000
+      internalID: -1906494815647032009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_128
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a7b05541f5da810800000000000000
+      internalID: 1778181968812014127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_129
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c519fd79e1246e80800000000000000
+      internalID: -8186380935928146496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584cca9a2d21f2250800000000000000
+      internalID: 5921972731014595717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_131
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fca031a1493a1e0800000000000000
+      internalID: -2187742154262393018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524e2d0e378e616d0800000000000000
+      internalID: -3019970915714538459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_133
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2142e2c4dbc9fd10800000000000000
+      internalID: 2159981610963976491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_134
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95634b61e6c810c0800000000000000
+      internalID: -4604711947516811874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_135
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea424648c1ad6770800000000000000
+      internalID: 8605712344519166688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_136
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c174b4a143c914c0800000000000000
+      internalID: -4316204081154330169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_137
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb2ea04903349b30800000000000000
+      internalID: 4293112459623803855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fb6a499ef6086f0800000000000000
+      internalID: -684424094348296423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_139
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c979171826798040800000000000000
+      internalID: 4650378004795062723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_140
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965be90e9203d1830800000000000000
+      internalID: 4043440996868863337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_141
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ca193c53a36d150800000000000000
+      internalID: 5896964764677024816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_142
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9366da46039d5d490800000000000000
+      internalID: -7722027184186104263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_143
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc1d11c91c0a6ec0800000000000000
+      internalID: -3573030049611440898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_144
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3928be2c19dce810800000000000000
+      internalID: 1796049066480118078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_145
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7921bfc578ebc6aa0800000000000000
+      internalID: -6166344301187231081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_146
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 312.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb0d975716887ea0800000000000000
+      internalID: -5874798279092532290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebfc4d8c911ef940800000000000000
+      internalID: 5331718372936449004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_148
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fec3e10522dd8c0800000000000000
+      internalID: -3972981568770871497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_149
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d173425ee67057480800000000000000
+      internalID: -8902200915555764451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_150
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1be3e63d46a48f0800000000000000
+      internalID: -555520744776355379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d679c9f76ccf63f0800000000000000
+      internalID: -905280253133752620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_152
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086d1f7d1c257fc90800000000000000
+      internalID: -7136144092040145280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_153
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652a51c90369de500800000000000000
+      internalID: 427162675191325270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_154
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5b11e8e2c951360800000000000000
+      internalID: 7139784508031743403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35528f01b45335b0800000000000000
+      internalID: -5389871209586207429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_156
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21a43ff406c3dfb0800000000000000
+      internalID: -4624134667615559380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_157
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0258bbf193cc6f800800000000000000
+      internalID: 645928142291830048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_158
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759191d66e8946c40800000000000000
+      internalID: 5504692759993850199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c45bde3ff8af13f0800000000000000
+      internalID: -927837183990344512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_160
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339b540f1c69258e0800000000000000
+      internalID: -1706135549116040909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_161
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87869e1531af0160800000000000000
+      internalID: 6993985995848189838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_162
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec12e4fdbe837ec90800000000000000
+      internalID: -7140676098457722418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_163
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67263a09921353e10800000000000000
+      internalID: 2176700049493549686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_164
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b73f38f8c4f23e0800000000000000
+      internalID: -2076356723916702918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_165
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb5d301ceb07b680800000000000000
+      internalID: -8739503443376514085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_166
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b348b154d2fd56060800000000000000
+      internalID: 6946203385814811707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_167
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 273.93335
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdac011577644a60800000000000000
+      internalID: 7657359018931564024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad46ef616d83b8bd0800000000000000
+      internalID: -2626943465480624934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_169
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4afda2747c69e550800000000000000
+      internalID: 6190598410193467981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_170
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba5f79502ed4ce00800000000000000
+      internalID: 1064219642488117938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_171
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5db9396218d44d0800000000000000
+      internalID: -3148718561776904783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_172
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978be59d021359e10800000000000000
+      internalID: 2203721609823303801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_173
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe147919092e6ef0800000000000000
+      internalID: -113107821579198729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_174
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163d0789896a9deb0800000000000000
+      internalID: -4694537962234260639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_175
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65107f6a594c69d90800000000000000
+      internalID: -7091264416217890474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_176
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d101d7c6e42067a80800000000000000
+      internalID: -8469579513372798947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_177
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7162a1c380da1eb0800000000000000
+      internalID: -4748253592800829062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_178
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2139669e7de7d130800000000000000
+      internalID: 3591600355796398380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_179
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b463711c510eb3af0800000000000000
+      internalID: -415492156563179957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_180
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514eaf2ddeed61e40800000000000000
+      internalID: 5626929897474286613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_181
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a50a43539208720800000000000000
+      internalID: 2846320272991083015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_182
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d494791d8cb1030800000000000000
+      internalID: 3466585140703612228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_183
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e64d8b039c5e6e00800000000000000
+      internalID: 1039870350592919268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_184
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7638d02d61426dad0800000000000000
+      internalID: -2677913247993199769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_185
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20480ea465c3a2510800000000000000
+      internalID: 1525097765139416066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_186
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d92d1b5d78f19c0800000000000000
+      internalID: -3954292595926852213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_187
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8367a8a19b2efa660800000000000000
+      internalID: 7399381997435123256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_188
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 234.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee98ccfe0cc450d0800000000000000
+      internalID: -3434896251034231063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feab1622a9664cb0800000000000000
+      internalID: -4880097001064386826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_190
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6543f8192d9a350800000000000000
+      internalID: 6028581098826782443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_191
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5160fdd3cafe57db0800000000000000
+      internalID: -4794662705214585323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_192
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87849140aabf88810800000000000000
+      internalID: 1767939561374697592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_193
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19db18f5512d92c10800000000000000
+      internalID: 2029384096345603473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_194
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e30633017fe3b00800000000000000
+      internalID: 810356631926750829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_195
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2266591a43121c0800000000000000
+      internalID: -4530281881557130497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_196
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190cb9e99301ca430800000000000000
+      internalID: 3795426425626673297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_197
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24937efbb7330adc0800000000000000
+      internalID: -3629844693067024062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_198
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f4079b5cf2cd690800000000000000
+      internalID: -7576127946877808807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_199
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0fe412dc6fbab90800000000000000
+      internalID: -7229413415925649171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_200
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0e2f9685f028a90800000000000000
+      internalID: -7313265972487200548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_201
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f108e00a7284a90800000000000000
+      internalID: -7329564825153953905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_202
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef851eb0de59e8920800000000000000
+      internalID: 2994495647587064062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_203
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32749757e8e01f9a0800000000000000
+      internalID: -6201159206893435101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_204
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd18f80ac9c31430800000000000000
+      internalID: 3752564784100810191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_205
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9501e06700c2a90800000000000000
+      internalID: -7337489185851287082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_206
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbb79684b6dbd640800000000000000
+      internalID: 5105910673395137500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_207
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ca58ad8b488b610800000000000000
+      internalID: 1637204394024217625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_208
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123a70b7734151cf0800000000000000
+      internalID: -282297173120933087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_209
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 195.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aa846b552bb3ae0800000000000000
+      internalID: -1568463964008306089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7174e8ad0405883f0800000000000000
+      internalID: -898379886185527529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_211
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3b068d83794b990800000000000000
+      internalID: -7371100419694480390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_212
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b229a330ebcbbc0800000000000000
+      internalID: -3765926267311740053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_213
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fae4de9b0be2080800000000000000
+      internalID: -9210229875329290420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_214
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcf418d424c60460800000000000000
+      internalID: 7207663916176178421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_215
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d85b1c01d51fc00800000000000000
+      internalID: 932628924393164112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_216
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175f623504c09f630800000000000000
+      internalID: 3961210817661564273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_217
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c785c371711cae30800000000000000
+      internalID: 4516003705317066692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_218
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1bf494f08c77310800000000000000
+      internalID: 1402809776929223167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_219
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c6f8121a02a80f0800000000000000
+      internalID: -1114042081395905477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_220
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631036d36018a6a00800000000000000
+      internalID: 750554151710294326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_221
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a7b34f832453c70800000000000000
+      internalID: 8950132646851869291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_222
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806fd27b1e0ba0ec0800000000000000
+      internalID: -3599870468641917432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_223
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21767f01ad3e68120800000000000000
+      internalID: 2415868775857874706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_224
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7117ba496d4ba8a0800000000000000
+      internalID: -6292850939699719813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_225
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb45ae06b9bb2ade0800000000000000
+      internalID: -1323289064473209668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_226
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4e9096b9ea99220800000000000000
+      internalID: 2493215851231700202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_227
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e391cbe41248534d0800000000000000
+      internalID: -3155470685313427138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_228
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2f38e1c7dc013e0800000000000000
+      internalID: -2084940694500936988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_229
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b4573bbfb65cef0800000000000000
+      internalID: -88545888872084642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_230
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 156.93333
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6a3b0df8c3e1810800000000000000
+      internalID: 1737893094591014587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2506ca6f1b23c1b0800000000000000
+      internalID: -5637614894602386131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_232
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc4e36fea337f840800000000000000
+      internalID: 5257727916526947519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_233
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63addca19c9df6690800000000000000
+      internalID: -7606621787844126154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_234
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a38e0cdf4c52e70800000000000000
+      internalID: 9089888017059428868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_235
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31152ffb75f3e4490800000000000000
+      internalID: -7760195461797752557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_236
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba612ca4eabf7040800000000000000
+      internalID: 4647638831772822193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_237
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0c8b832f7631b50800000000000000
+      internalID: 6562703372040323271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_238
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd8a53da37283bc0800000000000000
+      internalID: -3803246751706870317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_239
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a8a1761a59d9940800000000000000
+      internalID: 5304560456564378231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_240
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e66e6f21e1769b0800000000000000
+      internalID: -5087064187291144701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_241
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2540c02d1c058c30800000000000000
+      internalID: 4360905133421249838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_242
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f12d9d75b2c1b0d0800000000000000
+      internalID: -3408729358190435848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_243
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6098ac5a33c4010a0800000000000000
+      internalID: -6912941643305154298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_244
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa847300269d5e70800000000000000
+      internalID: 9105599085854100221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_245
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba2da834d049f0a0800000000000000
+      internalID: -6847370478212011336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_246
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312849c3e6dc7fce0800000000000000
+      internalID: -1371401688164564461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_247
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b6b70b1e5d03340800000000000000
+      internalID: 4841604764728519482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_248
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ab73f0b16fa3df0800000000000000
+      internalID: -199576637384705529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_249
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d511deeeb0801c20800000000000000
+      internalID: 3175179294835021273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_250
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ba6304844955900800000000000000
+      internalID: 672606757397638007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_251
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 117.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195ae99cef42dfca0800000000000000
+      internalID: -5981584053355240047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bd4faa591cbd0f0800000000000000
+      internalID: -1091065636144751746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_253
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd756acfd8bc962b0800000000000000
+      internalID: -5590713651714172961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_254
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f7c3da39b893e00800000000000000
+      internalID: 1025003856586375043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_255
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730eea2fb581b8920800000000000000
+      internalID: 2993513160510464055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_256
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871dc7eccc39026f0800000000000000
+      internalID: -711406233277640328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_257
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17d50cee2a8293a0800000000000000
+      internalID: -6660108964794607846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_258
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903fea442bbb26e30800000000000000
+      internalID: 4495361752400065289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_259
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af86d29aa20b8d50800000000000000
+      internalID: 6740484198921310121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_260
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4fdb19f3702f5f0800000000000000
+      internalID: -724508620443749133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_261
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de972d55d92cb4f60800000000000000
+      internalID: 8019717542468811245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_262
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9f748e7e639b580800000000000000
+      internalID: -8810950826311288414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_263
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5c8cbce1008c260800000000000000
+      internalID: 7117939343327020479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_264
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c7b64fc7ac018d0800000000000000
+      internalID: -2877577523864306661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_265
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eff204681fac040800000000000000
+      internalID: 4668809522627739263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_266
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9829e4583c544db0800000000000000
+      internalID: -4808617105112356709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_267
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0e03f03178c9d20800000000000000
+      internalID: 3286650344002609396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_268
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7881ace59d1e8970800000000000000
+      internalID: 8758970855039535231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_269
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4691883fa67c263f0800000000000000
+      internalID: -908944912609175196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_270
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a116a89cff3e690800000000000000
+      internalID: -7573928907231913350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_271
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6783b4b32484ee30800000000000000
+      internalID: 4531892413931947884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_272
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 78.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e3bda44d0264210800000000000000
+      internalID: 1316776037213486679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_273
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef11b0dbbf4348c0800000000000000
+      internalID: -4016278774605602837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_274
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4b52075439e98b0800000000000000
+      internalID: -5143511797966981891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_275
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b1b10563409b7c0800000000000000
+      internalID: -4055205358151722135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_276
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bfe41da51cd5a80800000000000000
+      internalID: -8476406327838573716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_277
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ba1d7bc62a6d390800000000000000
+      internalID: -7793863517293925482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_278
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b39a0d3a54615590800000000000000
+      internalID: -7687252750210788428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_279
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abd933ef80060c60800000000000000
+      internalID: 7783909623949024165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_280
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483a906e9e20d1660800000000000000
+      internalID: 7358040569803285380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_281
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236ab9fba962cc4b0800000000000000
+      internalID: -5418913805552081358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_282
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522f179837f0054b0800000000000000
+      internalID: -5453842159844068827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_283
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1befe4dd0502680800000000000000
+      internalID: -8781930361929158239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_284
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ef529fec7926120800000000000000
+      internalID: 2405652066168340042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_285
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eae2382c473a4bd0800000000000000
+      internalID: -2645241030895277339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_286
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9750c3576a6b6cd70800000000000000
+      internalID: 9063132126177396089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_287
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722ba114027ccf210800000000000000
+      internalID: 1368187328158937639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_288
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d516e8b2b08e481f0800000000000000
+      internalID: -1043454078970076835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_289
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bb3ee27a6013700800000000000000
+      internalID: 518202747240299346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_290
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7be4cb7d5c81450800000000000000
+      internalID: 6059810828994918328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_291
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be64e595081ee6c20800000000000000
+      internalID: 3201744326478415595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_292
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69642971ddd971a30800000000000000
+      internalID: 4185987951572960918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_293
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 39.933334
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc0b1459f3e4ba20800000000000000
+      internalID: 3077335105398312118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_294
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae9c7e7f9d476770800000000000000
+      internalID: 8603930960531857057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_295
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2fa321875b95b00800000000000000
+      internalID: 817884334651011800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_296
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96e88be35ca06a10800000000000000
+      internalID: 1900708519184230042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_297
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2cc481d1a1f2170800000000000000
+      internalID: 8155766162455315188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_298
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38b37536a90fce50800000000000000
+      internalID: 6831689769210329148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_299
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785511a1aaeefaa60800000000000000
+      internalID: 7687625503293920647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_300
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78241690e9be10630800000000000000
+      internalID: 3891650617019548295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_301
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2549f4dbe58c22bc0800000000000000
+      internalID: -3809262025573428142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_302
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c091e9204be5690800000000000000
+      internalID: -7611448396874183547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_303
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9246b39d2d56197b0800000000000000
+      internalID: -5219278536883608535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_304
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e56853b772a17860800000000000000
+      internalID: 7525975087306532329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_305
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b6b2180374c9eb0800000000000000
+      internalID: -4711812836485272807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_306
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f1e6f6f74b64640800000000000000
+      internalID: 5063933290448035734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_307
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ce73ee1196b1060800000000000000
+      internalID: 6925244377744272531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_308
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f17930f7ebab190800000000000000
+      internalID: -7945829139811459193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_309
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ef9e967578a2380800000000000000
+      internalID: -8995228496210297341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_310
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeadc4622ea714d0800000000000000
+      internalID: -3163868750461161822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_311
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98722eacf55ca4d0800000000000000
+      internalID: -3122025897932982118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_312
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba6ff15b776cc1c0800000000000000
+      internalID: -4482093749786154310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_313
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebfec8d52d16b5e0800000000000000
+      internalID: -1894294544874275866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gear4_314
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0.93333435
+        width: 40
+        height: 39.066666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55185d12a3ad4b630800000000000000
+      internalID: 3942015517066625365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
