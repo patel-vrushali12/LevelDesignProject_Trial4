@@ -602,8 +602,7 @@ MonoBehaviour:
   AbilityPermitted: 1
   BlockingMovementStates: 
   BlockingConditionStates: 
-  InitialWeapon: {fileID: 8403627640004837807, guid: 9b25d8b908e55634b8a6212c81988573,
-    type: 3}
+  InitialWeapon: {fileID: 0}
   CanPickupWeapons: 1
   WeaponAttachment: {fileID: 1045624886806204120}
   ForceWeaponScaleResetOnEquip: 0
