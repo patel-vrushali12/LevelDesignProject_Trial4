@@ -9,25 +9,24 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 16f005fbcfc61684c82bf819bce9d63b, type: 3}
-  m_Name: AxeWeapon
+  m_Script: {fileID: 11500000, guid: 9fac9bd89dcafc049b19f543ccf8fd57, type: 3}
+  m_Name: Treasure
   m_EditorClassIdentifier: 
-  ItemID: AxeWeapon
+  ItemID: Treasure
   TargetInventoryName: MainInventory
   Usable: 0
   Consumable: 1
   ConsumeQuantity: 1
-  Equippable: 1
+  Equippable: 0
   Droppable: 0
   CanMoveObject: 1
   CanSwapObject: 1
   Quantity: 1
-  ItemName: Axe
-  ShortDescription: Axe as a Weapon
-  Description: Right Click to use Axe as a Weapon can be used to break the walls
-    and kill the enemies
-  Icon: {fileID: 21300000, guid: 84cc901705255384981f18fede0f524f, type: 3}
-  Prefab: {fileID: 1884810478697366, guid: e89c21dc915805b499c5d77ee9591a6a, type: 3}
+  ItemName: Treasure
+  ShortDescription: Makes you richer
+  Description: Successfully robbed the gold coin chest
+  Icon: {fileID: 21300000, guid: e626675a654e38e4990855e100faee11, type: 3}
+  Prefab: {fileID: 1472130053336478, guid: 5241860ea7aaffc41b8fcc97f57e3729, type: 3}
   DropProperties:
     Shape: 0
     NormalToSpawnPlane: {x: 0, y: 1, z: 0}
@@ -70,14 +69,10 @@ MonoBehaviour:
     MinimumScale: {x: 1, y: 1, z: 1}
     MaximumScale: {x: 1, y: 1, z: 1}
   MaximumStack: 1
-  ItemClass: 2
-  TargetEquipmentInventoryName: WeaponInventory
+  ItemClass: 0
+  TargetEquipmentInventoryName: 
   EquippedSound: {fileID: 0}
   UsedSound: {fileID: 0}
   MovedSound: {fileID: 0}
   DroppedSound: {fileID: 0}
   UseDefaultSoundsIfNull: 1
-  EquippableWeapon: {fileID: 8403627640004837807, guid: 8ffd594f4d9effb498371e250323819c,
-    type: 3}
-  AutoEquipMode: 1
-  HandleWeaponID: 1
