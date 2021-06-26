@@ -5579,8 +5579,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0103594ec0e3a499ca70de1da80736f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MinFrequency: 1
-  MaxFrequency: 1
+  MinFrequency: 3
+  MaxFrequency: 10
 --- !u!114 &545734522
 MonoBehaviour:
   m_ObjectHideFlags: 0
