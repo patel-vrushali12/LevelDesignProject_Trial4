@@ -12,9 +12,7 @@ GameObject:
   - component: {fileID: 212405522201733708}
   - component: {fileID: 61502609424043822}
   - component: {fileID: 114585624238366084}
-  - component: {fileID: 114405451188523950}
-  - component: {fileID: 114173834430480282}
-  - component: {fileID: 114927324476803962}
+  - component: {fileID: 3716091353774426808}
   m_Layer: 0
   m_Name: AxePicker
   m_TagString: Untagged
@@ -135,7 +133,7 @@ MonoBehaviour:
   IgnoreCheckpointsAlwaysRespawn: 1
   AssociatedCheckpoints: []
   RespawnFeedback: {fileID: 0}
---- !u!114 &114405451188523950
+--- !u!114 &3716091353774426808
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -144,45 +142,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1884810478697366}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 86fd837a0abc28d4d91c55590bd2c090, type: 3}
+  m_Script: {fileID: 11500000, guid: cd24919780b3df14dbd49daaf0138f1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Item: {fileID: 11400000, guid: e33a289ec65927e499971de7c1d4e696, type: 2}
   Quantity: 1
   PickableIfInventoryIsFull: 0
-  DisableObjectWhenDepleted: 0
---- !u!114 &114173834430480282
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1884810478697366}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a381649f4adc480448ac6505907e4edd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  DisableObjectWhenDepleted: 1
   PickFeedbacks: {fileID: 893578067882867536}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
---- !u!114 &114927324476803962
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1884810478697366}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 86fd837a0abc28d4d91c55590bd2c090, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Item: {fileID: 11400000, guid: e33a289ec65927e499971de7c1d4e696, type: 2}
-  Quantity: 25
-  PickableIfInventoryIsFull: 0
-  DisableObjectWhenDepleted: 0
 --- !u!1 &3194615454171301863
 GameObject:
   m_ObjectHideFlags: 0
