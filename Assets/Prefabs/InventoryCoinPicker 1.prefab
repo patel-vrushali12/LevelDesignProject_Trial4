@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 212850589034612008}
   - component: {fileID: 58712065003539054}
   - component: {fileID: 114090134978246500}
-  - component: {fileID: 114166795042413076}
+  - component: {fileID: 6739045648930550155}
   m_Layer: 0
   m_Name: InventoryCoinPicker 1
   m_TagString: Untagged
@@ -123,7 +123,7 @@ MonoBehaviour:
   IgnoreCheckpointsAlwaysRespawn: 1
   AssociatedCheckpoints: []
   RespawnFeedback: {fileID: 0}
---- !u!114 &114166795042413076
+--- !u!114 &6739045648930550155
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -132,7 +132,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1472130053336478}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c2d96dc71d76c4e2ab8eb19d92d40d5f, type: 3}
+  m_Script: {fileID: 11500000, guid: cd24919780b3df14dbd49daaf0138f1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Item: {fileID: 11400000, guid: ad14d03fc7ece9f45bec1f4e8251f143, type: 2}
