@@ -6576,6 +6576,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: InventoryCoinPicker 1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1472130053336478, guid: 5241860ea7aaffc41b8fcc97f57e3729, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4133965223222142, guid: 5241860ea7aaffc41b8fcc97f57e3729, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -29038,11 +29042,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4926981348047128, guid: e89c21dc915805b499c5d77ee9591a6a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -79.19
+      value: -71.01
       objectReference: {fileID: 0}
     - target: {fileID: 4926981348047128, guid: e89c21dc915805b499c5d77ee9591a6a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.29
+      value: -5.85
       objectReference: {fileID: 0}
     - target: {fileID: 4926981348047128, guid: e89c21dc915805b499c5d77ee9591a6a, type: 3}
       propertyPath: m_LocalPosition.z
