@@ -23967,12 +23967,12 @@ PrefabInstance:
     - target: {fileID: 245379699535410444, guid: f461d6285369cfb439a4be50950b4905,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.88
+      value: -44
       objectReference: {fileID: 0}
     - target: {fileID: 245379699535410444, guid: f461d6285369cfb439a4be50950b4905,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 18.69
+      value: 6.1
       objectReference: {fileID: 0}
     - target: {fileID: 245379699535410444, guid: f461d6285369cfb439a4be50950b4905,
         type: 3}
@@ -24017,7 +24017,7 @@ PrefabInstance:
     - target: {fileID: 245379699535410445, guid: f461d6285369cfb439a4be50950b4905,
         type: 3}
       propertyPath: LevelName
-      value: Level 3
+      value: Level 5
       objectReference: {fileID: 0}
     - target: {fileID: 245379699535410445, guid: f461d6285369cfb439a4be50950b4905,
         type: 3}
@@ -25085,6 +25085,14 @@ PrefabInstance:
     - target: {fileID: 490956, guid: 6059d977d1f210348bfbe1a82f4f9883, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11489144, guid: 6059d977d1f210348bfbe1a82f4f9883, type: 3}
+      propertyPath: CurrentLives
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11489144, guid: 6059d977d1f210348bfbe1a82f4f9883, type: 3}
+      propertyPath: MaximumLives
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6059d977d1f210348bfbe1a82f4f9883, type: 3}
