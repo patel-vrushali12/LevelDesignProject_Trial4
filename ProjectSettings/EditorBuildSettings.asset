@@ -66,9 +66,6 @@ EditorBuildSettings:
     path: Assets/Minimal/FeaturesPlatforms.unity
     guid: 7c52201ab32b101488d1487d7683ccdb
   - enabled: 1
-    path: Assets/Scenes/Level 1 OLD.unity
-    guid: 01cc8dfd93b2bf64c8ffaea6085007d9
-  - enabled: 1
     path: Assets/Minimal/FeaturesWeapons.unity
     guid: ebcd6de0032f6a946a11ce7c5c7e5b02
   - enabled: 1
@@ -225,6 +222,18 @@ EditorBuildSettings:
     path: Assets/Scenes/LevelFinish.unity
     guid: 93560e68d8f8c534a8db8db1dc28f1d0
   - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: d77fa51811a8e7c409aeb6316b4be258
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 3a92824c298472e4d94c0e7eb0b1e9fd
+  - enabled: 1
     path: Assets/Scenes/Level 1.unity
-    guid: c6ebb0e8545329442b6d73506aff3efb
+    guid: a5f1c6b138c60d74690c26c57069adfa
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 1107c39f88266f1419e3a6174f37a217
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 597dc1c96ae727a4c89b70ec4fdbba27
   m_configObjects: {}
