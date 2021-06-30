@@ -66,7 +66,7 @@ EditorBuildSettings:
     path: Assets/Minimal/FeaturesPlatforms.unity
     guid: 7c52201ab32b101488d1487d7683ccdb
   - enabled: 1
-    path: Assets/Scenes/Level 1.unity
+    path: Assets/Scenes/Level 1 OLD.unity
     guid: 01cc8dfd93b2bf64c8ffaea6085007d9
   - enabled: 1
     path: Assets/Minimal/FeaturesWeapons.unity
@@ -216,7 +216,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Level 0.unity
     guid: 3b64c8db032857a468b046b84f2b8664
   - enabled: 1
-    path: Assets/Scenes/Level 2.unity
+    path: Assets/Scenes/Level 1_new.unity
     guid: 230e8ed3ea1b83d48b589d90b966636e
   - enabled: 1
     path: Assets/Scenes/Level 3.unity
