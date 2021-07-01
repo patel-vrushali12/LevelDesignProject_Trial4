@@ -743,7 +743,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Time To Rob The Teasure
+  m_Text: Time To Rob The Treasure
 --- !u!222 &750883465
 CanvasRenderer:
   m_ObjectHideFlags: 0
