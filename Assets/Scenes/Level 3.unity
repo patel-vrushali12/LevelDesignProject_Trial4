@@ -4717,7 +4717,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4947677323796814, guid: e4439547283ee9d42a4c6c95209c5ac8, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4947677323796814, guid: e4439547283ee9d42a4c6c95209c5ac8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5897,7 +5897,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &545753600
 GameObject:
@@ -18056,25 +18056,6 @@ MonoBehaviour:
   DrawContentInInspector: 1
   Content:
   - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
   InventoryType: 1
   TargetTransform: {fileID: 0}
   Persistent: 1
@@ -23869,7 +23850,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4133965223222142, guid: 5241860ea7aaffc41b8fcc97f57e3729, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4133965223222142, guid: 5241860ea7aaffc41b8fcc97f57e3729, type: 3}
       propertyPath: m_LocalPosition.x
@@ -29642,7 +29623,7 @@ PrefabInstance:
     - target: {fileID: 3861961496447232670, guid: 6be6b5536e7cdfa4b8dea369e32707e5,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 3861961496447232670, guid: 6be6b5536e7cdfa4b8dea369e32707e5,
         type: 3}
@@ -31986,7 +31967,7 @@ PrefabInstance:
     - target: {fileID: 245379699535410445, guid: f461d6285369cfb439a4be50950b4905,
         type: 3}
       propertyPath: LevelName
-      value: Level 4
+      value: Level 2
       objectReference: {fileID: 0}
     - target: {fileID: 245379699535410446, guid: f461d6285369cfb439a4be50950b4905,
         type: 3}
