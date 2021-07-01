@@ -31969,6 +31969,11 @@ PrefabInstance:
       propertyPath: LevelName
       value: Level 2
       objectReference: {fileID: 0}
+    - target: {fileID: 245379699535410445, guid: f461d6285369cfb439a4be50950b4905,
+        type: 3}
+      propertyPath: PointOfEntryIndex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 245379699535410446, guid: f461d6285369cfb439a4be50950b4905,
         type: 3}
       propertyPath: m_Name
